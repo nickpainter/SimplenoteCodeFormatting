@@ -4,4 +4,5 @@ Bookmarklet that improves Simplenote's web application.  Provides a better code 
 ![alt text](https://raw.githubusercontent.com/nickpainter/SimplenoteCodeFormatting/master/images/SimplenoteCodeFormatting.png)
 
 
-
+# Using
+I would recommend the tamper monkey extension which is available at https://tampermonkey.net/.  This will enable you to easily install the userscript.
